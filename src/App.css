@@ -1,0 +1,22 @@
+body {
+  background-color: #FAF7F2;
+}
+.container {
+  background-color: white;
+  margin: 10px;
+  width: 250px;
+  height: 90px;
+}
+
+ul {
+  display: flew;
+  list-style: none;
+  padding: 30px 15px 15px;
+  margin: auto;
+  width: 150px;
+  height: 50px;
+}
+
+li {
+  display: inline;
+}
